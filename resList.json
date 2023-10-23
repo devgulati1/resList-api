@@ -1,0 +1,28 @@
+{
+  "resList": [
+    {
+      "id": 123,
+      "name": "Pizza Hut",
+      "domain": "Pizzas",
+      "location": "Kirti Nagar"
+    },
+    {
+      "id": 124,
+      "name": "Burger King",
+      "domain": "Burgers, American",
+      "location": "Rajouri Garden"
+    },
+    {
+      "id": 125,
+      "name": "KFC",
+      "domain": "Burgers, Biryani",
+      "location": "Rajouri Garden"
+    },
+    {
+      "id": 126,
+      "name": "Domino's Pizza",
+      "domain": "Pizzas, Italian",
+      "location": "Tilak Nagar"
+    }
+  ]
+}
